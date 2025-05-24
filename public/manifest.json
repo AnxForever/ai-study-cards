@@ -1,0 +1,21 @@
+{
+  "name": "AI对话知识卡片生成器",
+  "short_name": "知识卡片",
+  "description": "将AI对话整理成Obsidian知识卡片",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
